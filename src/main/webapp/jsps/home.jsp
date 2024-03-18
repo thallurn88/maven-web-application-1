@@ -5,7 +5,7 @@
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
 <title>MithunTechnologies- Home Page</title>
-<link href="images/mithunlogo.jpg" rel="icon">
+<link href="images/mithunlog.jpg" rel="icon">
 </head>
 </head>
 <body>
@@ -44,7 +44,7 @@ out.println("Server Host Name :: "+inetAddress.getHostName());
 	</span>
 </div>
 <hr>
-	<p> Service : <a href="services/employee/getEmployeeDetails">Get Employee Details </p>
+	<p> Service : <a href="services/employe/getEmployeeDetails">Get Employee Details </p>
 <hr>
 <hr>
 <p align=center>XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX.</p>
