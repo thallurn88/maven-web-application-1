@@ -91,13 +91,13 @@
         <repository>
           <id>nexus</id>
           <name>Mithun Technologies Releases Nexus Repository</name>
-          <url>http://172.31.58.76:8081/repository/nagarjuna-Release/</url>
+          <url>http://100.25.204.110:8081/repository/nagarjuna-Release/</url>
         </repository>
         
         <snapshotRepository>
           <id>nexus</id>
           <name>Mithun Technologies Snapshot Nexus Repository </name>
-          <url>http://172.31.58.76:8081/repository/nagarjuna-snapshot/</url>
+          <url>http://100.25.204.110:8081/repository/nagarjuna-snapshot/</url>
         </snapshotRepository>
         
     </distributionManagement>
