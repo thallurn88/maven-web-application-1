@@ -9,7 +9,7 @@
 </head>
 </head>
 <body>
-<h1 align="center">Hello Nagarjuna Thalluru</h1>
+<h1 align="center">Hello Aruna</h1>
 <h1 align="center"> ++++++++++++++++Devops practice+++++++++++++++++++</h1>
 <hr>
 <br>
